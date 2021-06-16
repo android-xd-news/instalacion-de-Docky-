@@ -16,6 +16,7 @@ wget http://archive.ubuntu.com/ubuntu/pool/universe/libg/libgnome-keyring/libgno
 
 wget http://archive.ubuntu.com/ubuntu/pool/universe/g/gnome-keyring-sharp/libgnome-keyring1.0-cil_1.0.0-5_amd64.deb
 
+sudo apt-get install ./*.deb
 
 
 
